@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c719b39e.css",
+    "main.js": "/static/js/main.733e0ae3.js",
+    "static/js/453.e6ad08bc.chunk.js": "/static/js/453.e6ad08bc.chunk.js",
+    "static/media/calcu.jpg": "/static/media/calcu.99bb6559366c13a60ffb.jpg",
+    "static/media/weather.jpg": "/static/media/weather.d355e7ea8aac736f90c7.jpg",
+    "static/media/all-n-one-logo.png": "/static/media/all-n-one-logo.b5d36e0badb1b2c9d2f6.png",
+    "index.html": "/index.html",
+    "main.c719b39e.css.map": "/static/css/main.c719b39e.css.map",
+    "main.733e0ae3.js.map": "/static/js/main.733e0ae3.js.map",
+    "453.e6ad08bc.chunk.js.map": "/static/js/453.e6ad08bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c719b39e.css",
+    "static/js/main.733e0ae3.js"
+  ]
+}

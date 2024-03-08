@@ -1,0 +1,19 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "build file for all n 1 app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/zandrodiocampo/all-in-one-build.git"
+  },
+  "author": "Zandro Diocampo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/zandrodiocampo/all-in-one-build/issues"
+  },
+  "homepage": "https://gitlab.com/zandrodiocampo/all-in-one-build#readme"
+}
